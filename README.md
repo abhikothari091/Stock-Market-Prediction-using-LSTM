@@ -12,6 +12,6 @@ This project harnesses the power of machine learning to predict stock market tre
 - User-friendly Interface: Provides a user-friendly interface powered by Streamlit, ensuring accessibility for all levels of expertise.
 
 ## Run the following on your terminal:
-pip install -r requirements.txt
+pip install -r requirements.txt \\ 
 streamlit run app.py
 
