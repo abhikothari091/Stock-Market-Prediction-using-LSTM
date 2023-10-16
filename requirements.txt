@@ -1,0 +1,25 @@
+# Requirements for Stock Market Prediction Project
+
+# Data Handling
+pandas==1.3.3
+numpy==1.19.5
+
+# Data Visualization
+matplotlib==3.4.3
+seaborn==0.11.2
+
+# Machine Learning Libraries
+scikit-learn==0.24.2
+tensorflow==2.6.0
+yfinance==0.1.64
+
+# Streamlit for the User Interface
+streamlit==1.3.0
+
+# Preprocessing and Scaling
+scipy==1.7.3
+
+# Additional Libraries (if used)
+# library_name==version
+
+# Include any other packages you're using
